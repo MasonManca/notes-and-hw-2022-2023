@@ -4,6 +4,7 @@ CPSC 346 Section: 2
 Dr. Zhang
 Project 6
 */
+// Do not use the Kernel data structure functions
 #include <linux/init.h>
 #include <linux/module.h>
 #include <linux/kernel.h>
